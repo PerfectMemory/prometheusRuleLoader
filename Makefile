@@ -1,6 +1,6 @@
 app_name := prometheusRuleLoader
 container_name := prometheusruleloader
-container_registry := quay.io/nordstrom
+container_registry := jperville
 container_release := 2.3
 
 .PHONY: build build_image release_image
